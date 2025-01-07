@@ -1,2 +1,2 @@
-# blog-html
+# Blog
 Example of a TC blog.
